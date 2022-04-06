@@ -1,6 +1,7 @@
 # Emotion-Detection
 
-Projeto para detecção de emoções faciais utilizando OpenCV, MediaPipe e Numpy. Este projeto foi desenvolvido para disciplina de Visão Computacional. </p>
+Projeto para detecção de emoções faciais utilizando OpenCV, MediaPipe e Numpy. </p>
+Este projeto foi desenvolvido para disciplina de Visão Computacional. </p>
 
 Aluno: Vinicius Barbosa Polito Lopes </p>
 
