@@ -1,0 +1,23 @@
+VIDEOS
+https://www.youtube.com/watch?v=UHdrxHPRBng&t=1288s
+
+https://www.youtube.com/watch?v=ctjkZnQF_FY
+
+https://www.youtube.com/watch?v=We1uB79Ci-w
+
+https://www.youtube.com/watch?v=Bb4Wvl57LIk
+
+https://iq.opengenus.org/different-types-of-cnn-models/
+
+https://www.youtube.com/watch?v=ctjkZnQF_FY
+
+https://www.youtube.com/watch?v=We1uB79Ci-w
+
+CODES
+https://github.com/The-Assembly/Detect-Emotions-with-Convolutional-Neural-Networks
+https://github.com/ViniciusPolito/Emotion_detection_with_CNN
+https://github.com/ViniciusPolito/facial_emotion_recognition
+
+Dataset FER 2013
+https://www.kaggle.com/datasets/msambare/fer2013
+https://github.com/ViniciusPolito/fer2013
